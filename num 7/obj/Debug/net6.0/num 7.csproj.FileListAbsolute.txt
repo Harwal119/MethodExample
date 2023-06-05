@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\methods\num 7\bin\Debug\net6.0\num 7.exe
+C:\Users\USER\Desktop\methods\num 7\bin\Debug\net6.0\num 7.deps.json
+C:\Users\USER\Desktop\methods\num 7\bin\Debug\net6.0\num 7.runtimeconfig.json
+C:\Users\USER\Desktop\methods\num 7\bin\Debug\net6.0\num 7.dll
+C:\Users\USER\Desktop\methods\num 7\bin\Debug\net6.0\num 7.pdb
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.AssemblyInfo.cs
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.dll
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\refint\num 7.dll
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.pdb
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\num 7.genruntimeconfig.cache
+C:\Users\USER\Desktop\methods\num 7\obj\Debug\net6.0\ref\num 7.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\methods\network application\bin\Debug\net6.0\network application.exe
+C:\Users\USER\Desktop\methods\network application\bin\Debug\net6.0\network application.deps.json
+C:\Users\USER\Desktop\methods\network application\bin\Debug\net6.0\network application.runtimeconfig.json
+C:\Users\USER\Desktop\methods\network application\bin\Debug\net6.0\network application.dll
+C:\Users\USER\Desktop\methods\network application\bin\Debug\net6.0\network application.pdb
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.AssemblyInfo.cs
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.dll
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\refint\network application.dll
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.pdb
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\network application.genruntimeconfig.cache
+C:\Users\USER\Desktop\methods\network application\obj\Debug\net6.0\ref\network application.dll

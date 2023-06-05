@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\methods\Soft\bin\Debug\net6.0\Soft.exe
+C:\Users\USER\Desktop\methods\Soft\bin\Debug\net6.0\Soft.deps.json
+C:\Users\USER\Desktop\methods\Soft\bin\Debug\net6.0\Soft.runtimeconfig.json
+C:\Users\USER\Desktop\methods\Soft\bin\Debug\net6.0\Soft.dll
+C:\Users\USER\Desktop\methods\Soft\bin\Debug\net6.0\Soft.pdb
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.AssemblyInfo.cs
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.dll
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\refint\Soft.dll
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.pdb
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\Soft.genruntimeconfig.cache
+C:\Users\USER\Desktop\methods\Soft\obj\Debug\net6.0\ref\Soft.dll
